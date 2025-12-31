@@ -12,7 +12,7 @@ manifest:
    # - name: mario-peripheral-animation
    #   remote: gpeye
    #    revision: main 
-    - name: urchin-peripheral-animation
+    - name: hammerbeam-slideshow
       remote: gpeye
       revision: main
     - name: eyelash_sofle
