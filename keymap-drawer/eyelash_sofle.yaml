@@ -47,7 +47,7 @@ layers:
   - V
   - B
   - $$mdi:arrow-right-bold$$
-  - {t: ;, h: N, s: ':'}
+  - {t: N, h: ;}
   - M
   - {t: ',', s: <}
   - {t: ., s: '>'}
