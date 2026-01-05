@@ -87,7 +87,7 @@
 &kp ESC     &kp N1     &kp N2        &kp N3        &kp N4  &kp N5       &kp UP_ARROW     &kp N6            &kp N7     &kp N8            &kp N9           &kp N0        &kp BACKSPACE
 &kp TAB     &kp Q      &kp W         &kp E         &kp R   &kp T        &kp DOWN_ARROW   &kp Y             &kp U      &kp I             &kp O            &kp P         &kp ES_QUOT 
 &kp LSHFT   &kp A      &kp S         &kp D         &kp F   &kp G        &kp LEFT_ARROW   &kp H             &kp J      &kp K             &kp L            &kp ES_LABK   &kp ES_PLUS 
-&kp LCTRL   &kp Z      &kp X         &kp C         &kp V   &kp B        &kp RIGHT_ARROW  &mt ES_NTIL N     &kp M      &kp ES_COMM       &kp ES_DOT       &kp ES_MINS   &kp RIGHT_SHIFT
+&kp LCTRL   &kp Z      &kp X         &kp C         &kp V   &kp B        &kp RIGHT_ARROW  &kp N             &kp M      &kp ES_COMM       &kp ES_DOT       &kp ES_MINS   &kp RIGHT_SHIFT
 &kp C_MUTE  &kp LCTRL  &kp LEFT_GUI  &kp LEFT_ALT  &mo 1   &kp SPACE    &kp ENTER        &kp ENTER         &kp LCTRL  &kp LEFT_GUI      &mo 2            &kp DELETE
             >;
 
@@ -100,7 +100,7 @@
 &kp GRAVE   &kp F1           &kp F2          &kp F3           &kp F4           &kp F5             &mmv MOVE_UP     &kp F6           &kp F7           &kp F8           &kp F9        &kp F10           &kp DEL
 &trans      &kp GRAVE        &mkp LCLK       &mkp MCLK        &mkp RCLK        &mkp MB4           &mmv MOVE_DOWN   &kp ES_LCBR      &kp ES_RCBR      &kp ES_LBRC      &kp ES_RBRC   &trans            &kp F11
 &td1        &kp TILDE        &trans          &trans           &trans           &mkp MB5           &mmv MOVE_LEFT   &kp LEFT         &kp DOWN         &kp UP           &kp RIGHT     &kp ES_GRV        &kp F12
-&trans      &rgb_ug RGB_OFF  &rgb_ug RGB_ON  &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &rgb_ug RGB_SPI    &mmv MOVE_RIGHT  &kp ES_HASH      &trans           &trans           &trans        &trans            &trans
+&trans      &rgb_ug RGB_OFF  &rgb_ug RGB_ON  &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &rgb_ug RGB_SPI    &mmv MOVE_RIGHT  &kp ES_NTIL      &kp ES_HASH      &trans           &trans        &trans            &trans
 &kp C_MUTE  &trans           &trans          &trans           &trans           &trans             &mkp LCLK        &trans           &trans           &trans           &trans        &trans
             >;
 
